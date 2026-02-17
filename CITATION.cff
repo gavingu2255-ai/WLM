@@ -1,25 +1,40 @@
 cff-version: 1.2.0
 message: "If you use the Wujie Language Model (WLM) or any of its seven structural layers in your research or software, please cite it as follows."
-authors:
-  - family-names: "Gu"
-    given-names: "Wujie"
-    alias: "Wujie"
+type: software
+
 title: "Wujie Language Model (WLM): A Seven-Layer Structural Universe Protocol for AI"
 version: "1.0.0-mvp"
 date-released: 2026-02-17
+
+authors:
+  - family-names: "Gu"
+    given-names: "Wujie"
+
 url: "https://github.com/gavingu2255-ai/WLM"
 repository-code: "https://github.com/gavingu2255-ai/WLM"
+
 keywords:
-  - "WLM"
-  - "Structural Language Protocol"
-  - "SLP"
-  - "High-Dimensional Alignment"
-  - "AI Metacognition"
-  - "World Generation Protocol"
-  - "Deterministic AI"
+  - WLM
+  - Structural Language Protocol
+  - SLP
+  - High-Dimensional Alignment
+  - AI Metacognition
+  - World Generation Protocol
+  - Deterministic AI
+
 abstract: >
-  The Wujie Language Model (WLM) is a seven-layer structural protocol stack designed to 
-  transform AI from a probabilistic token-predictor into a structured, interpretable, 
-  and world-generating intelligence. It provides a comprehensive framework spanning 
+  The Wujie Language Model (WLM) is a seven-layer structural protocol stack designed to
+  transform AI from a probabilistic token-predictor into a structured, interpretable,
+  and world-generating intelligence. It provides a comprehensive framework spanning
   from semantic interpretation (SLP) to autonomous world generation (WGP).
+
 license: MIT
+
+preferred-citation:
+  type: software
+  title: "Wujie Language Model (WLM)"
+  authors:
+    - family-names: "Gu"
+      given-names: "Wujie"
+  year: 2026
+  url: "https://github.com/gavingu2255-ai/WLM"
