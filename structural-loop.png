@@ -1,0 +1,11 @@
+flowchart TD
+
+    A[Input] --> B[1. Structural Language Protocol<br/>(SLP)]
+    B --> C[2. World Model Interpreter<br/>(LWM)]
+    C --> D[3. Agent Behavior Structure Layer]
+    D --> E[4. Persona / Character Structure Layer]
+    E --> F[5. Knowledge Structuring Layer]
+    F --> G[6. Metacognition Layer]
+    G --> H[7. World Generation Protocol<br/>(WGP)]
+    H --> I[Generated World Structure]
+    I --> A
