@@ -30,7 +30,7 @@ Converts any input — text, video, behavior — into structured semantic dimens
 This is the foundational protocol layer that all other layers depend on.
 
 **Purpose:** The structural protocol layer of AI.  
-Repo: https://github.com/gavingu2255-ai/wlm-slp
+Repo: https://github.com/gavingu2255-ai/WLM-slp-world-interpreter
 
 ---
 
