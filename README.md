@@ -17,6 +17,39 @@ WLM is an **AI Universe Protocol**.
 
 ---
 
+# 📁 Repository Structure
+
+This repository is the **root meta‑repo** for the entire WLM universe.
+
+```
+WLM/
+├── README.md
+├── LICENSE
+│
+├── docs/
+│   ├── overview.md
+│   ├── architecture.md
+│   ├── roadmap.md
+│   ├── layers.md
+│   ├── philosophy.md
+│   └── glossary.md
+│
+├── images/
+│   ├── architecture-diagram.png
+│   └── structural-loop.png
+│
+└── links/
+    ├── slp.md
+    ├── world-model-interpreter.md
+    ├── agent-behavior.md
+    ├── persona-engine.md
+    ├── knowledge-engine.md
+    ├── metacognition-engine.md
+    └── world-generation-protocol.md
+```
+
+---
+
 # 🌐 The Seven Layers of WLM
 
 WLM consists of seven independent but interlocking protocol layers:
@@ -164,13 +197,6 @@ WLM is the protocol stack for **Structural Intelligence**.
 MIT License  
 Copyright (c) 2026  
 Wujie Gu
-
----
-
-# 📍 Status
-
-All 7 layers are implemented (MVP).  
-Phase 2: evolve each layer from MVP → fully functional structural engines.
 
 ---
 
