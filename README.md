@@ -41,7 +41,7 @@ Converts world‑model outputs (video, physics, spatial predictions) into dimens
 AI doesn’t just *predict* the world — it can *explain* it.
 
 **Purpose:** Structural interpretation of world models.  
-Repo: https://github.com/gavingu2255-ai/wlm-world-model-interpreter
+Repo: https://github.com/gavingu2255-ai/WLM-world-model-interpreter-
 
 ---
 
@@ -52,7 +52,7 @@ Generates agent behavior from dimensional structure.
 Stable, reproducible, non‑chaotic, non‑degenerate.
 
 **Purpose:** A structure‑driven Agent Runtime.  
-Repo: https://github.com/gavingu2255-ai/wlm-agent-behavior
+Repo: https://github.com/gavingu2255-ai/WLM-Agent-Behavior
 
 ---
 
@@ -63,7 +63,7 @@ Characters don’t collapse, drift, or contradict themselves.
 Personality becomes structure, not prompt hacks.
 
 **Purpose:** Structural personality engine.  
-Repo: https://github.com/gavingu2255-ai/wlm-persona-engine
+Repo: https://github.com/gavingu2255-ai/WLM-Persona-Engine
 
 ---
 
@@ -75,7 +75,7 @@ Not vector soup.
 Actual structured knowledge.
 
 **Purpose:** Structural knowledge engine.  
-Repo: https://github.com/gavingu2255-ai/wlm-knowledge-engine
+Repo: https://github.com/gavingu2255-ai/WLM-Knowledge-Engine
 
 ---
 
@@ -86,7 +86,7 @@ Tracks reasoning steps, consistency, dimension shifts, and self‑checks.
 Transparent, controllable, non‑hallucinatory reasoning.
 
 **Purpose:** Structural metacognition engine.  
-Repo: https://github.com/gavingu2255-ai/wlm-metacognition-engine
+Repo: https://github.com/gavingu2255-ai/WLM-Metacognition-Engine
 
 ---
 
@@ -103,7 +103,7 @@ Generates:
 - simulation‑ready world graphs  
 
 **Purpose:** Structural world‑generation engine.  
-Repo: https://github.com/gavingu2255-ai/wlm-world-generation-protocol
+Repo: https://github.com/gavingu2255-ai/WLM-World-Generation-Protocol
 
 ---
 
